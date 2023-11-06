@@ -1,0 +1,38 @@
+
+body{
+    margin: auto;
+    width: 75%;
+    font-family: sans-serif;
+    text-align: center;
+}
+table{
+    border-collapse: collapse;
+    color: rgb(55, 55, 55);
+    margin-left: 40px;
+}
+table th, td{
+    height: 35px;
+    border-bottom: 1px solid grey;
+    padding: 0px 10px;
+                
+}
+.head{
+    background-color: #2d3436;
+    color: white;
+    text-align: left;
+}
+.subhead{
+    background-color: #bbbec0;
+}
+.subtopic, .name, .data{
+    text-align: left;
+}
+.name{
+    color: blue;
+}
+.impdata{
+    font-weight: bold;
+}
+td>i{
+    font-size: 12px;
+}      
